@@ -2,6 +2,8 @@
 
 chrome plugin that analyzes online speech patterns
 
+checkout [the docs](./docs/index.md)
+
 ## resources
 
 - [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples/tree/main/functional-samples)
